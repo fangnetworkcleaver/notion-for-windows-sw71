@@ -1,4 +1,4 @@
-# 
+# new Notion for Windows Helper | cloud-sync + version-history is the best Notion for Windows helper, featuring cloud-sync and version-history. Powerful, efficient, and optimized
 
 
 
